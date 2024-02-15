@@ -1,2 +1,2 @@
 # linksapp-aws-backend
-Linktree copy app backend with amazon web services (DynamoDB, S3, Lambda, SES)
+This app is backend for my linktree clone project with amazon web services (DynamoDB, S3, Lambda, SES)
